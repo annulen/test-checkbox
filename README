@@ -1,0 +1,4 @@
+* Install Qt 5
+* qmake && make
+
+Application is already built with -g -pg -fno-omit-frame-pointer
